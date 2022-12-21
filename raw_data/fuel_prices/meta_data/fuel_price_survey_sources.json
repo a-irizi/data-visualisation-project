@@ -1,0 +1,17 @@
+[
+    {
+        "description": "Fuels price survey informationCSV",
+        "link": "https://ontario.ca/v1/files/fuel-prices/fueltypesall.csv",
+        "file_name": "fueltypesall.csv"
+    },
+    {
+        "description": "Data dictionaryXLSX",
+        "link": "https://files.ontario.ca/fuelsdatadictionary_0.xlsx",
+        "file_name": "fuelsdatadictionary_0.xlsx"
+    },
+    {
+        "description": "Dictionnaire des donn\u00e9esXLSX",
+        "link": "https://files.ontario.ca/fuelsdatadictionary_fre.xlsx",
+        "file_name": "fuelsdatadictionary_fre.xlsx"
+    }
+]

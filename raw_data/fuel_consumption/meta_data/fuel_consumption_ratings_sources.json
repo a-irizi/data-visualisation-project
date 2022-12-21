@@ -1,0 +1,162 @@
+[
+    {
+        "description": "Battery-electric vehicles 2012-2022 (2022-05-16)CSV",
+        "link": "https://www.nrcan.gc.ca/sites/nrcan/files/oee/files/csv/MY2012-2022%20Battery%20Electric%20Vehicles.csv",
+        "file_name": "MY2012-2022-Battery-Electric-Vehicles.csv"
+    },
+    {
+        "description": "Battery-electric vehicles 2012-2022 (2022-05-16)CSV",
+        "link": "https://www.rncan.gc.ca/sites/nrcan/files/oee/files/csv/AM2012-2022%20V%C3%A9hicules%20%C3%A9lectriques%20%C3%A0%20batterie.csv",
+        "file_name": "AM2012-2022-V%C3%A9hicules-%C3%A9lectriques-%C3%A0-batterie.csv"
+    },
+    {
+        "description": "Plug-in hybrid electric vehicles 2012-2022 (2022-03-28)CSV",
+        "link": "https://www.nrcan.gc.ca/sites/nrcan/files/oee/files/csv/MY2012-2022%20Plug-in%20Hybrid%20Electric%20Vehicles.csv",
+        "file_name": "MY2012-2022-Plug-in-Hybrid-Electric-Vehicles.csv"
+    },
+    {
+        "description": "Plug-in hybrid electric vehicles 2012-2022 (2022-03-28)CSV",
+        "link": "https://www.rncan.gc.ca/sites/nrcan/files/oee/files/csv/AM2012-2022%20V%C3%A9hicules%20hybrides%20%C3%A9lectriques%20rechargeables.csv",
+        "file_name": "AM2012-2022-V%C3%A9hicules-hybrides-%C3%A9lectriques-rechargeables.csv"
+    },
+    {
+        "description": "2022 Fuel Consumption Ratings (2022-08-18)CSV",
+        "link": "https://www.nrcan.gc.ca/sites/nrcan/files/oee/files/csv/MY2022%20Fuel%20Consumption%20Ratings.csv",
+        "file_name": "MY2022-Fuel-Consumption-Ratings.csv"
+    },
+    {
+        "description": "2022 Fuel Consumption Ratings (2022-08-18)CSV",
+        "link": "https://www.rncan.gc.ca/sites/nrcan/files/oee/files/csv/AM2022%20Cotes%20de%20consommation%20de%20carburant.csv",
+        "file_name": "AM2022-Cotes-de-consommation-de-carburant.csv"
+    },
+    {
+        "description": "2021 Fuel Consumption Ratings (2022-08-09)CSV",
+        "link": "https://www.nrcan.gc.ca/sites/nrcan/files/oee/files/csv/MY2021%20Fuel%20Consumption%20Ratings.csv",
+        "file_name": "MY2021-Fuel-Consumption-Ratings.csv"
+    },
+    {
+        "description": "2021 Fuel Consumption Ratings (2022-08-09)CSV",
+        "link": "https://www.rncan.gc.ca/sites/nrcan/files/oee/files/csv/AM2021%20Cotes%20de%20consommation%20de%20carburant.csv",
+        "file_name": "AM2021-Cotes-de-consommation-de-carburant.csv"
+    },
+    {
+        "description": "2020 Fuel Consumption Ratings (2021-09-29)CSV",
+        "link": "https://www.nrcan.gc.ca/sites/nrcan/files/oee/files/csv/MY2020%20Fuel%20Consumption%20Ratings.csv",
+        "file_name": "MY2020-Fuel-Consumption-Ratings.csv"
+    },
+    {
+        "description": "2020 Fuel Consumption Ratings (2021-09-29)CSV",
+        "link": "https://www.rncan.gc.ca/sites/nrcan/files/oee/files/csv/AM2020%20Cotes%20de%20consommation%20de%20carburant.csv",
+        "file_name": "AM2020-Cotes-de-consommation-de-carburant.csv"
+    },
+    {
+        "description": "2019 Fuel Consumption Ratings (2021-09-29)CSV",
+        "link": "https://www.nrcan.gc.ca/sites/nrcan/files/oee/files/csv/MY2019%20Fuel%20Consumption%20Ratings.csv",
+        "file_name": "MY2019-Fuel-Consumption-Ratings.csv"
+    },
+    {
+        "description": "2019 Fuel Consumption Ratings (2021-09-29)CSV",
+        "link": "https://www.rncan.gc.ca/sites/nrcan/files/oee/files/csv/AM2019%20Cotes%20de%20consommation%20de%20carburant.csv",
+        "file_name": "AM2019-Cotes-de-consommation-de-carburant.csv"
+    },
+    {
+        "description": "2018 Fuel Consumption Ratings (2021-09-29)CSV",
+        "link": "https://www.nrcan.gc.ca/sites/nrcan/files/oee/files/csv/MY2018%20Fuel%20Consumption%20Ratings.csv",
+        "file_name": "MY2018-Fuel-Consumption-Ratings.csv"
+    },
+    {
+        "description": "2018 Fuel Consumption Ratings (2021-09-29)CSV",
+        "link": "https://www.rncan.gc.ca/sites/nrcan/files/oee/files/csv/AM2018%20Cotes%20de%20consommation%20de%20carburant.csv",
+        "file_name": "AM2018-Cotes-de-consommation-de-carburant.csv"
+    },
+    {
+        "description": "2017 Fuel Consumption Ratings (2020-03-17)CSV",
+        "link": "https://www.nrcan.gc.ca/sites/nrcan/files/oee/files/csv/MY2017%20Fuel%20Consumption%20Ratings.csv",
+        "file_name": "MY2017-Fuel-Consumption-Ratings.csv"
+    },
+    {
+        "description": "2017 Fuel Consumption Ratings (2020-03-17)CSV",
+        "link": "https://www.rncan.gc.ca/sites/nrcan/files/oee/files/csv/AM2017%20Cotes%20de%20consommation%20de%20carburant.csv",
+        "file_name": "AM2017-Cotes-de-consommation-de-carburant.csv"
+    },
+    {
+        "description": "2016 Fuel Consumption Ratings (2020-03-17)CSV",
+        "link": "https://www.nrcan.gc.ca/sites/nrcan/files/oee/files/csv/MY2016%20Fuel%20Consumption%20Ratings.csv",
+        "file_name": "MY2016-Fuel-Consumption-Ratings.csv"
+    },
+    {
+        "description": "2016 Fuel Consumption Ratings (2020-03-17)CSV",
+        "link": "https://www.rncan.gc.ca/sites/www.rncan.gc.ca/files/oee/files/csv/AM2016%20Cotes%20de%20consommation%20de%20carburant.csv",
+        "file_name": "AM2016-Cotes-de-consommation-de-carburant.csv"
+    },
+    {
+        "description": "2015 Fuel Consumption Ratings (2020-03-17)CSV",
+        "link": "https://www.nrcan.gc.ca/sites/nrcan/files/oee/files/csv/MY2015%20Fuel%20Consumption%20Ratings.csv",
+        "file_name": "MY2015-Fuel-Consumption-Ratings.csv"
+    },
+    {
+        "description": "2015 Fuel Consumption Ratings (2020-03-17)CSV",
+        "link": "https://www.rncan.gc.ca/sites/www.rncan.gc.ca/files/oee/files/csv/AM2015%20Cotes%20de%20consommation%20de%20carburant.csv",
+        "file_name": "AM2015-Cotes-de-consommation-de-carburant.csv"
+    },
+    {
+        "description": "2010-2014 Fuel Consumption Ratings (2020-03-17)CSV",
+        "link": "https://www.nrcan.gc.ca/sites/www.rncan.gc.ca/files/oee/files/csv/MY2010-2014%20Fuel%20Consumption%20Ratings%205-cycle.csv",
+        "file_name": "MY2010-2014-Fuel-Consumption-Ratings-5-cycle.csv"
+    },
+    {
+        "description": "2010-2014 Fuel Consumption Ratings (2020-03-17)CSV",
+        "link": "https://www.rncan.gc.ca/sites/www.rncan.gc.ca/files/oee/files/csv/AM2010-2014%20Cotes%20de%20consommation%20de%20carburant%20cinq%20cycles.csv",
+        "file_name": "AM2010-2014-Cotes-de-consommation-de-carburant-cinq-cycles.csv"
+    },
+    {
+        "description": "2005-2009 Fuel Consumption Ratings (2020-01-31)CSV",
+        "link": "https://www.nrcan.gc.ca/sites/www.rncan.gc.ca/files/oee/files/csv/MY2005-2009%20Fuel%20Consumption%20Ratings%205-cycle.csv",
+        "file_name": "MY2005-2009-Fuel-Consumption-Ratings-5-cycle.csv"
+    },
+    {
+        "description": "2005-2009 Fuel Consumption Ratings (2020-01-31)CSV",
+        "link": "https://www.rncan.gc.ca/sites/www.rncan.gc.ca/files/oee/files/csv/AM2005-2009%20Cotes%20de%20consommation%20de%20carburant%20cinq%20cycles.csv",
+        "file_name": "AM2005-2009-Cotes-de-consommation-de-carburant-cinq-cycles.csv"
+    },
+    {
+        "description": "2000-2004 Fuel Consumption RatingsCSV",
+        "link": "https://www.nrcan.gc.ca/sites/www.rncan.gc.ca/files/oee/files/csv/MY2000-2004%20Fuel%20Consumption%20Ratings%205-cycle.csv",
+        "file_name": "MY2000-2004-Fuel-Consumption-Ratings-5-cycle.csv"
+    },
+    {
+        "description": "2000-2004 Fuel Consumption RatingsCSV",
+        "link": "https://www.rncan.gc.ca/sites/www.rncan.gc.ca/files/oee/files/csv/AM2000-2004%20Cotes%20de%20consommation%20de%20carburant%20cinq%20cycles.csv",
+        "file_name": "AM2000-2004-Cotes-de-consommation-de-carburant-cinq-cycles.csv"
+    },
+    {
+        "description": "1995-1999 Fuel Consumption RatingsCSV",
+        "link": "https://www.nrcan.gc.ca/sites/www.rncan.gc.ca/files/oee/files/csv/MY1995-1999%20Fuel%20Consumption%20Ratings%205-cycle.csv",
+        "file_name": "MY1995-1999-Fuel-Consumption-Ratings-5-cycle.csv"
+    },
+    {
+        "description": "1995-1999 Fuel Consumption RatingsCSV",
+        "link": "https://www.rncan.gc.ca/sites/www.rncan.gc.ca/files/oee/files/csv/AM1995-1999%20Cotes%20de%20consommation%20de%20carburant%20cinq%20cycles.csv",
+        "file_name": "AM1995-1999-Cotes-de-consommation-de-carburant-cinq-cycles.csv"
+    },
+    {
+        "description": "(Original Fuel Consumption Ratings 2000-2014)CSV",
+        "link": "https://www.nrcan.gc.ca/sites/www.rncan.gc.ca/files/oee/files/csv/Original%20MY2000-2014%20Fuel%20Consumption%20Ratings%20(2-cycle).csv",
+        "file_name": "Original-MY2000-2014-Fuel-Consumption-Ratings-(2-cycle).csv"
+    },
+    {
+        "description": "(Original Fuel Consumption Ratings 2000-2014)CSV",
+        "link": "https://www.rncan.gc.ca/sites/www.rncan.gc.ca/files/oee/files/csv/AM2000-2014%20Cotes%20de%20consommation%20de%20carburant%20originales%20-%20deux%20cycles.csv",
+        "file_name": "AM2000-2014-Cotes-de-consommation-de-carburant-originales---deux-cycles.csv"
+    },
+    {
+        "description": "(Original Fuel Consumption Ratings 1995-1999)CSV",
+        "link": "https://www.nrcan.gc.ca/sites/www.rncan.gc.ca/files/oee/files/csv/Original%20MY1995-1999%20Fuel%20Consumption%20Ratings%20(2-cycle).csv",
+        "file_name": "Original-MY1995-1999-Fuel-Consumption-Ratings-(2-cycle).csv"
+    },
+    {
+        "description": "(Original Fuel Consumption Ratings 1995-1999)CSV",
+        "link": "https://www.rncan.gc.ca/sites/www.rncan.gc.ca/files/oee/files/csv/AM1995-1999%20Cotes%20de%20consommation%20de%20carburant%20originales%20-%20deux%20cycles.csv",
+        "file_name": "AM1995-1999-Cotes-de-consommation-de-carburant-originales---deux-cycles.csv"
+    }
+]

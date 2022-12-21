@@ -11,8 +11,10 @@ jupyterlab = "*"
 beautifulsoup4 = "*"
 requests = "*"
 lxml = "*"
+glob2 = "*"
+scipy = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.10"
+python_version = "3.11"

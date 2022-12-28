@@ -1,132 +1,132 @@
 year,fuel_type,price
-1990,Compressed Natural Gas,0.0
-1990,Diesel,47.3
-1990,Premium Gasoline,59.75
-1990,Regular Unleaded Gasoline,55.05
-1991,Compressed Natural Gas,0.0
-1991,Diesel,51.849999999999994
-1991,Premium Gasoline,60.6
-1991,Regular Unleaded Gasoline,54.849999999999994
-1992,Compressed Natural Gas,0.0
-1992,Diesel,50.7
-1992,Premium Gasoline,60.8
-1992,Regular Unleaded Gasoline,54.1
-1993,Compressed Natural Gas,0.0
-1993,Diesel,50.7
-1993,Premium Gasoline,60.45
-1993,Regular Unleaded Gasoline,52.9
-1994,Compressed Natural Gas,0.0
-1994,Diesel,49.3
-1994,Premium Gasoline,58.3
-1994,Regular Unleaded Gasoline,51.05
-1995,Compressed Natural Gas,0.0
-1995,Diesel,48.6
-1995,Premium Gasoline,61.85
-1995,Regular Unleaded Gasoline,53.9
-1996,Compressed Natural Gas,0.0
-1996,Diesel,52.1
-1996,Premium Gasoline,66.2
-1996,Regular Unleaded Gasoline,57.3
-1997,Compressed Natural Gas,0.0
-1997,Diesel,51.9
-1997,Premium Gasoline,66.9
-1997,Regular Unleaded Gasoline,57.3
-1998,Compressed Natural Gas,0.0
-1998,Diesel,49.2
-1998,Premium Gasoline,62.95
-1998,Regular Unleaded Gasoline,52.5
-1999,Compressed Natural Gas,0.0
-1999,Diesel,45.9
-1999,Premium Gasoline,67.35
-1999,Regular Unleaded Gasoline,57.35
-2000,Compressed Natural Gas,0.0
-2000,Diesel,64.5
-2000,Premium Gasoline,82.05
-2000,Regular Unleaded Gasoline,71.9
-2001,Compressed Natural Gas,0.0
-2001,Diesel,65.8
-2001,Premium Gasoline,77.0
-2001,Regular Unleaded Gasoline,66.9
-2002,Compressed Natural Gas,0.0
-2002,Diesel,58.9
-2002,Premium Gasoline,76.55
-2002,Regular Unleaded Gasoline,66.7
-2003,Compressed Natural Gas,0.0
-2003,Diesel,61.599999999999994
-2003,Premium Gasoline,77.45
-2003,Regular Unleaded Gasoline,67.05
-2004,Compressed Natural Gas,0.0
-2004,Diesel,70.85
-2004,Premium Gasoline,87.85
-2004,Regular Unleaded Gasoline,77.5
-2005,Compressed Natural Gas,0.0
-2005,Diesel,87.9
-2005,Premium Gasoline,99.25
-2005,Regular Unleaded Gasoline,88.55
-2006,Compressed Natural Gas,0.0
-2006,Diesel,93.35
-2006,Premium Gasoline,105.25
-2006,Regular Unleaded Gasoline,94.5
-2007,Compressed Natural Gas,0.0
-2007,Diesel,94.2
-2007,Premium Gasoline,110.65
-2007,Regular Unleaded Gasoline,99.85
-2008,Compressed Natural Gas,0.0
-2008,Diesel,121.6
-2008,Premium Gasoline,121.7
-2008,Regular Unleaded Gasoline,109.6
-2009,Compressed Natural Gas,0.0
-2009,Diesel,88.45
-2009,Premium Gasoline,105.69999999999999
-2009,Regular Unleaded Gasoline,94.0
-2010,Compressed Natural Gas,0.0
-2010,Diesel,98.45
-2010,Premium Gasoline,112.9
-2010,Regular Unleaded Gasoline,100.45
-2011,Compressed Natural Gas,0.0
-2011,Diesel,124.05000000000001
-2011,Premium Gasoline,137.7
-2011,Regular Unleaded Gasoline,124.15
-2012,Compressed Natural Gas,0.0
-2012,Diesel,124.44999999999999
-2012,Premium Gasoline,139.85000000000002
-2012,Regular Unleaded Gasoline,126.05
-2013,Compressed Natural Gas,0.0
-2013,Diesel,127.2
-2013,Premium Gasoline,141.2
-2013,Regular Unleaded Gasoline,126.9
-2014,Compressed Natural Gas,0.0
-2014,Diesel,131.89999999999998
-2014,Premium Gasoline,144.7
-2014,Regular Unleaded Gasoline,129.95
-2015,Compressed Natural Gas,0.0
-2015,Diesel,108.4
-2015,Premium Gasoline,119.45
-2015,Regular Unleaded Gasoline,103.35
-2016,Compressed Natural Gas,0.0
-2016,Diesel,92.65
-2016,Premium Gasoline,117.2
-2016,Regular Unleaded Gasoline,100.45
-2017,Compressed Natural Gas,0.0
-2017,Diesel,106.35
-2017,Premium Gasoline,129.05
-2017,Regular Unleaded Gasoline,111.6
-2018,Diesel,126.9
-2018,Premium Gasoline,145.6
-2018,Regular Unleaded Gasoline,127.4
-2019,Compressed Natural Gas,0.0
-2019,Diesel,118.9
-2019,Premium Gasoline,138.35000000000002
-2019,Regular Unleaded Gasoline,117.1
-2020,Compressed Natural Gas,0.0
-2020,Diesel,98.65
-2020,Premium Gasoline,124.6
-2020,Regular Unleaded Gasoline,102.0
-2021,Compressed Natural Gas,0.0
-2021,Diesel,126.75
-2021,Premium Gasoline,157.7
-2021,Regular Unleaded Gasoline,132.9
-2022,Compressed Natural Gas,0.0
-2022,Diesel,199.8
-2022,Premium Gasoline,191.2
-2022,Regular Unleaded Gasoline,166.3
+1990,natural gaz,0.0
+1990,diesel,47.3
+1990,premium gasoline,59.75
+1990,regular gasoline,55.05
+1991,natural gaz,0.0
+1991,diesel,51.849999999999994
+1991,premium gasoline,60.6
+1991,regular gasoline,54.849999999999994
+1992,natural gaz,0.0
+1992,diesel,50.7
+1992,premium gasoline,60.8
+1992,regular gasoline,54.1
+1993,natural gaz,0.0
+1993,diesel,50.7
+1993,premium gasoline,60.45
+1993,regular gasoline,52.9
+1994,natural gaz,0.0
+1994,diesel,49.3
+1994,premium gasoline,58.3
+1994,regular gasoline,51.05
+1995,natural gaz,0.0
+1995,diesel,48.6
+1995,premium gasoline,61.85
+1995,regular gasoline,53.9
+1996,natural gaz,0.0
+1996,diesel,52.1
+1996,premium gasoline,66.2
+1996,regular gasoline,57.3
+1997,natural gaz,0.0
+1997,diesel,51.9
+1997,premium gasoline,66.9
+1997,regular gasoline,57.3
+1998,natural gaz,0.0
+1998,diesel,49.2
+1998,premium gasoline,62.95
+1998,regular gasoline,52.5
+1999,natural gaz,0.0
+1999,diesel,45.9
+1999,premium gasoline,67.35
+1999,regular gasoline,57.35
+2000,natural gaz,0.0
+2000,diesel,64.5
+2000,premium gasoline,82.05
+2000,regular gasoline,71.9
+2001,natural gaz,0.0
+2001,diesel,65.8
+2001,premium gasoline,77.0
+2001,regular gasoline,66.9
+2002,natural gaz,0.0
+2002,diesel,58.9
+2002,premium gasoline,76.55
+2002,regular gasoline,66.7
+2003,natural gaz,0.0
+2003,diesel,61.599999999999994
+2003,premium gasoline,77.45
+2003,regular gasoline,67.05
+2004,natural gaz,0.0
+2004,diesel,70.85
+2004,premium gasoline,87.85
+2004,regular gasoline,77.5
+2005,natural gaz,0.0
+2005,diesel,87.9
+2005,premium gasoline,99.25
+2005,regular gasoline,88.55
+2006,natural gaz,0.0
+2006,diesel,93.35
+2006,premium gasoline,105.25
+2006,regular gasoline,94.5
+2007,natural gaz,0.0
+2007,diesel,94.2
+2007,premium gasoline,110.65
+2007,regular gasoline,99.85
+2008,natural gaz,0.0
+2008,diesel,121.6
+2008,premium gasoline,121.7
+2008,regular gasoline,109.6
+2009,natural gaz,0.0
+2009,diesel,88.45
+2009,premium gasoline,105.69999999999999
+2009,regular gasoline,94.0
+2010,natural gaz,0.0
+2010,diesel,98.45
+2010,premium gasoline,112.9
+2010,regular gasoline,100.45
+2011,natural gaz,0.0
+2011,diesel,124.05000000000001
+2011,premium gasoline,137.7
+2011,regular gasoline,124.15
+2012,natural gaz,0.0
+2012,diesel,124.44999999999999
+2012,premium gasoline,139.85000000000002
+2012,regular gasoline,126.05
+2013,natural gaz,0.0
+2013,diesel,127.2
+2013,premium gasoline,141.2
+2013,regular gasoline,126.9
+2014,natural gaz,0.0
+2014,diesel,131.89999999999998
+2014,premium gasoline,144.7
+2014,regular gasoline,129.95
+2015,natural gaz,0.0
+2015,diesel,108.4
+2015,premium gasoline,119.45
+2015,regular gasoline,103.35
+2016,natural gaz,0.0
+2016,diesel,92.65
+2016,premium gasoline,117.2
+2016,regular gasoline,100.45
+2017,natural gaz,0.0
+2017,diesel,106.35
+2017,premium gasoline,129.05
+2017,regular gasoline,111.6
+2018,diesel,126.9
+2018,premium gasoline,145.6
+2018,regular gasoline,127.4
+2019,natural gaz,0.0
+2019,diesel,118.9
+2019,premium gasoline,138.35000000000002
+2019,regular gasoline,117.1
+2020,natural gaz,0.0
+2020,diesel,98.65
+2020,premium gasoline,124.6
+2020,regular gasoline,102.0
+2021,natural gaz,0.0
+2021,diesel,126.75
+2021,premium gasoline,157.7
+2021,regular gasoline,132.9
+2022,natural gaz,0.0
+2022,diesel,199.8
+2022,premium gasoline,191.2
+2022,regular gasoline,166.3
